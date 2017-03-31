@@ -15,11 +15,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/iqabs/DevProx.git
+git clone https://github.com/iqabs/master.git
 
 #5
-cd DevProx
-
+cd master
 #6
 chmod +x launch.sh
 
@@ -27,7 +26,7 @@ chmod +x launch.sh
 ./launch.sh install
 
 #8
-./launch.sh انتضر شويه وراح يطلب رقمه خليه
+./launch.sh انتضر شويه وراح يطلب رقمه خلي
 * * *
 
 ### Realm configuration
